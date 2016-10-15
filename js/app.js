@@ -1,4 +1,3 @@
 //Hide Warning
-$(".warning").hide();
+$(".warning").hide().slideDown(5000);
 //Show Warning Slowly
-$(".warning").show("slow");
